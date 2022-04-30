@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="missingsSurname"
+    errors="0" failures="0" hostname="" id="" package="missingsSurname" skipped="0"
+    tests="1" time="2.932" timestamp="">
+  
+    <testcase name="Purchase an item missing the surname" classname="missingsSurname" time="2.932" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

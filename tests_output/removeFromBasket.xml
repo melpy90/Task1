@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="removeFromBasket"
+    errors="1" failures="0" hostname="" id="" package="removeFromBasket" skipped="1"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+    <system-err>
+      
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│    Error: EdgeDriver cannot be found in the current project.                                         │
+│                                                                                                      │
+│    Please download it from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,    │
+│   extract the archive and set &#34;webdriver.server_path&#34; config option to point to the binary file.     │
+│                                                                                                      │
+│                                                                                                      │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│    Error: EdgeDriver cannot be found in the current project.                                         │
+│                                                                                                      │
+│    Please download it from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,    │
+│   extract the archive and set &#34;webdriver.server_path&#34; config option to point to the binary file.     │
+│                                                                                                      │
+│                                                                                                      │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│    Error: EdgeDriver cannot be found in the current project.                                         │
+│                                                                                                      │
+│    Please download it from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,    │
+│   extract the archive and set &#34;webdriver.server_path&#34; config option to point to the binary file.     │
+│                                                                                                      │
+│                                                                                                      │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│    Error: EdgeDriver cannot be found in the current project.                                         │
+│                                                                                                      │
+│    Please download it from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,    │
+│   extract the archive and set &#34;webdriver.server_path&#34; config option to point to the binary file.     │
+│                                                                                                      │
+│                                                                                                      │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│    Error: EdgeDriver cannot be found in the current project.                                         │
+│                                                                                                      │
+│    Please download it from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,    │
+│   extract the archive and set &#34;webdriver.server_path&#34; config option to point to the binary file.     │
+│                                                                                                      │
+│                                                                                                      │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│    Error: EdgeDriver cannot be found in the current project.                                         │
+│                                                                                                      │
+│    Please download it from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,    │
+│   extract the archive and set &#34;webdriver.server_path&#34; config option to point to the binary file.     │
+│                                                                                                      │
+│                                                                                                      │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                      │
+│    Error: EdgeDriver cannot be found in the current project.                                         │
+│                                                                                                      │
+│    Please download it from https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/,    │
+│   extract the archive and set &#34;webdriver.server_path&#34; config option to point to the binary file.     │
+│                                                                                                      │
+│                                                                                                      │
+│                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+    </system-err>
+  
+
+    
+    <error message="EdgeDriver cannot be found in the current project."><![CDATA[
+      Error: EdgeDriver cannot be found in the current project.
+    at EdgeServiceBuilder.getStartupErrorMessage (C:\Users\anton\git\node_modules\nightwatch\lib\transport\selenium-webdriver\service-builders\base-service.js:197:26)
+    at new BaseService (C:\Users\anton\git\node_modules\nightwatch\lib\transport\selenium-webdriver\service-builders\base-service.js:81:18)
+    at new EdgeServiceBuilder (C:\Users\anton\git\node_modules\nightwatch\lib\transport\selenium-webdriver\service-builders\edge.js:4:1)
+    at ChromeDriver.createDriverService (C:\Users\anton\git\node_modules\nightwatch\lib\transport\selenium-webdriver\index.js:171:28)
+    at ChromeDriver.createSession (C:\Users\anton\git\node_modules\nightwatch\lib\transport\selenium-webdriver\index.js:223:18)
+    at NightwatchClient.createSession (C:\Users\anton\git\node_modules\nightwatch\lib\core\client.js:640:27)
+    at TestSuite.createSession (C:\Users\anton\git\node_modules\nightwatch\lib\testsuite\index.js:437:24)
+    at TestSuite.startTestSuite (C:\Users\anton\git\node_modules\nightwatch\lib\testsuite\index.js:451:17)
+    at TestSuite.runTestSuite (C:\Users\anton\git\node_modules\nightwatch\lib\testsuite\index.js:476:17)
+    at TestSuite.run (C:\Users\anton\git\node_modules\nightwatch\lib\testsuite\index.js:928:17)
+      ]]></error>  
+
+  
+    
+    <testcase
+      name="Negative test: Purchase an item removing item from basket" classname="removeFromBasket">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
